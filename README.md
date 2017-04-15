@@ -1,0 +1,3 @@
+# Interface-Note-prof-IMIE
+Interface en PDO permettant de noter les profs de l'IMIE et de laisser des commentaires. Formulaire relié à une base de données mySQL.
+Un peu d'humour qui me permet de mettre en pratique...
